@@ -2,10 +2,9 @@
 
 Aplicación de escritorio en Java Swing para probar conexiones a bases de datos mediante JDBC.
 
-## Archivos
+## Archivo
 - `ConexionTester.java`: código fuente de la aplicación.
-- `codigo_csv.csv`: exportación del código fuente en formato CSV.
-- El informe académico en PDF se entrega por separado.
+
 
 ## Requisitos
 - JDK instalado.
